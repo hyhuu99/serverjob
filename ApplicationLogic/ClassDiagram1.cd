@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ApplicationLogic.Candidates.CandidateBusinessLogic" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAABAAAAAAAAAAAAABAAAAAAAAAAhAAgAAAAA=</HashCode>
+      <FileName>Candidates\CandidateBusinessLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ApplicationLogic.Commons.CommonBusinessLogic" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Commons\CommonBusinessLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApplicationLogic.Companys.CompanyBusinessLogic" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAgAAAAAAAAAAAAAAAAEAQAAEAgAAAAA=</HashCode>
+      <FileName>Companys\CompanyBusinessLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApplicationLogic.Jobs.JobBusinessLogic" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEEAQAAAAAAIAAAgAAAAAAAAAAAAAAgAAAggAAAA=</HashCode>
+      <FileName>Jobs\JobBusinessLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApplicationLogic.Resumes.ResumesBusinessLogic" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEACAAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAgAAAAA=</HashCode>
+      <FileName>Resumes\ResumesBusinessLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ApplicationLogic.Users.UserBusinessLogic" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQIAAACgAAAAAAACICAAAEAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Users\UserBusinessLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="ApplicationLogic.Candidates.ICandidateBusinessLogic" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAABAAAAAAAAAAAAABAAAAAAAAAAhAAAAAAAA=</HashCode>
+      <FileName>Candidates\ICandidateBusinessLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApplicationLogic.Commons.ICommonBusinessLogic" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commons\ICommonBusinessLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApplicationLogic.Companys.ICompanyBusinessLogic" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAgAAAAAAAAAAAAAAAAEAQAAEAAAAAAA=</HashCode>
+      <FileName>Companys\ICompanyBusinessLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ApplicationLogic.Jobs.IJobBusinessLogic" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEEAQAAAAAAIAAAgAAAAAAAAAAAAAAgAAAAgAAAA=</HashCode>
+      <FileName>Jobs\IJobBusinessLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
